@@ -10,7 +10,7 @@ This Flutter app allows users to search for movies and view details about them.
 
 ## Screenshots
 
-![Simulator Screen Recording - iPhone 15 - 2024-04-22 at 10 07 22]
+![Simulator Screen Recording - iPhone 15 - 2024-04-22 at 10 07 22](https://github.com/Gaiypovv/Movie_App_Test/assets/114824844/f8343861-c8b4-4e29-8125-68bf28359c39)
 
 
 Include screenshots or links to screenshots of your app here.
